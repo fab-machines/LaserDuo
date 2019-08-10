@@ -175,7 +175,7 @@ LaserDuo requires different fabbable PCBs to work. Below the download links for 
 
 - **[satstep6600 schematic](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satstep6600/satstep6600.sch)**, **[satstep6600 board](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satstep6600/satstep6600.brd)**
 
-- **[satshakit-grbl schematic](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satstep6600/satshakit-grbl.sch)**, **[satshakit-grbl board](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satstep6600/satshakit-grbl.brd)**
+- **[satshakit-grbl schematic](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satshakit-grbl/satshakit-grbl.sch)**, **[satshakit-grbl board](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satshakit-grbl/satshakit-grbl.brd)**
 
 Media
 --
