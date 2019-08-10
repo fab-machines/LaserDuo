@@ -129,7 +129,7 @@ To power all this electronics, and to control the laser sources the following ad
 Make your own LaserDuo
 --
 
-LaserDuo is made by using a mix of fabricated and ready-made parts. The ready-made parts are selected to be as common/standard as possible, to make the sourcing of them easy in many countries. For both the raw materials needed for the fabricated parts, and the ready-made parts, refer to the Bill-of-Material for details: **[LaserDuo BOM]()**
+LaserDuo is made by using a mix of fabricated and ready-made parts. The ready-made parts are selected to be as common/standard as possible, to make the sourcing of them easy in many countries. For both the raw materials needed for the fabricated parts, and the ready-made parts, refer to the Bill-of-Material for details: **[LaserDuo BOM](https://github.com/fab-machines/LaserDuo/raw/master/docs/LaserDuo%20BOM.pdf)**
 
 The fabrication of the parts mainly relays on standard [Fab Lab equipment](https://docs.google.com/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html) plus a membrane press machine. Below a list of the required tools and machines:
 
@@ -161,13 +161,13 @@ The fabrication of the parts mainly relays on standard [Fab Lab equipment](https
 
 <img src="media/membrane.jpg" width="100%">
 
-Both fabricated and ready-made parts have been modeled inside the **[LaserDuo Fusion 360 model]()**. Using Fusion is possible to export/prepare the parts for production in the following ways:
+Both fabricated and ready-made parts have been modeled inside the **[LaserDuo Fusion 360 3D model](https://github.com/fab-machines/LaserDuo/raw/master/cad/LaserDuo.f3d)**. Using Fusion is possible to export/prepare the parts for production in the following ways:
 
 - right click save as STL, on a body that needs to be 3D printed
 - use the built-in Fusion CAM processor for the machined parts
 - project on a surface, and then right click export as DXF, for laser cutting
  
-For more details about the tools and once you have all the fabricated and ready-made parts parts available, refer to the for step-by-step assembly instructions and tips: **[LaserDuo Building Manual]()** 
+For more details about the tools and once you have all the fabricated and ready-made parts parts available, refer to the for step-by-step assembly instructions and tips: **[LaserDuo Building Manual](https://github.com/fab-machines/LaserDuo/raw/master/docs/LaserDuo%20building%20manual.pdf)** 
 
 LaserDuo requires different fabbable PCBs to work. Below the download links for the eagle files that you use to fabricate them:
 
@@ -175,7 +175,7 @@ LaserDuo requires different fabbable PCBs to work. Below the download links for 
 
 - **[satstep6600 schematic](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satstep6600/satstep6600.sch)**, **[satstep6600 board](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satstep6600/satstep6600.brd)**
 
-- **[satshakit-grbl schematic](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satstep6600/satstep6600.sch)**, **[satshakit-grbl board](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satstep6600/satstep6600.brd)**
+- **[satshakit-grbl schematic](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satstep6600/satshakit-grbl.sch)**, **[satshakit-grbl board](https://github.com/fab-machines/LaserDuo/raw/master/electronics/satstep6600/satshakit-grbl.brd)**
 
 Media
 --
@@ -216,14 +216,14 @@ Donations
 
 Our dream is to have impact by making **open source machines digitally available and locally produced anywhere in world**. We plan to open a dedicated Fab Lab to foster open machine building and digital fabrication research. Practically several tasks and many expensens have to be sustained to give this dream the chance to have a future. Such as the renting of a proper space, the making/purchasing of proper equipment, the sustainability of our work and lifes. If you share this mindset and BigFDM is useful to you, please help us to make this dream a reality by donating your support:
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id= J6TSUYZH6YPZC)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J6TSUYZH6YPZC)
 
 Acknowledgements
 --
 
 **Thanks:**<br>
 <br>
-**[Fablab Kamp-Lintfort](http://fablabuae.ae/)**<br />
+**[Fablab Kamp-Lintfort](https://fablab.hochschule-rhein-waal.de/)**<br />
 Hochschule Rhein-Waal<br/>
 Friedrich-Heinrich-Allee 25<br/>
 47475 Kamp-Lintfort - Germany<br/>
