@@ -1,7 +1,7 @@
 <div align="center"><h1 style="font-family: courier;" align="center">LaserDuo</h1></div>
 
 <div align="center"><img src="media/LaserDuo1.jpg" width="100%"></div>
-<div align="center"><i>Open Source Large Scale 3D Printer</i></div>
+<div align="center"><i>Open Source Dual Laser Cutter</i></div>
 
 Premises
 --
@@ -27,7 +27,10 @@ Taking advantage of what we have learned in [Fab Academy](https://fabacademy.org
 Developed and built in a Fab Lab as multipurpose machine, LaserDuo allows to access the laser cutting technology at lower price in comparison to similar machines available on the market. Especially considering the possibility to work with metals. The open source design allows the user to fix the machine by himself, and to be aware of the process in a way that he can use it to reproduce the machine or parts for it. Being a challenging project from several aspects, such as size of the working area, Z-axis, speed, resolution and the dual laser, it also offers additional features like an integrated PC to control the machine and launch jobs, air assist, solid aluminum bodywork.
 
 <img src="media/LaserDuo4.jpg" width="100%">
-**LaserDuo specifications**:- **1500mm x 1000mm** cutting area
+
+**LaserDuo specifications**:
+
+- **1500mm x 1000mm** cutting area
 - **500mm Z axis**
 - **dual laser source**
 - **130W CO2** laser
