@@ -209,10 +209,10 @@ alt="http://img.youtube.com/vi/EAzdC5dfosA/0.jpg" width="800" height="600" borde
 Author
 --
 
-**[Daniele Ingrassia](http://www.fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)**
+The author of BigFDM is:
 
-- **ingrassiada@gmail.com**
-- **[linkedin](http://it.linkedin.com/in/danieleingrassia)**
+- **Daniele Ingrassia, daniele@inmachines.net**
+- **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**
 
 Donations
 --
@@ -242,7 +242,9 @@ Website development by **Emir Rustamov**<br/>
 
 License
 -- 
-LaserDuo is licensed under the terms of the open source license: Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
+LaserDuo, its hardware design, CAD, BOM, settings and relative files are are released under the following open source license:
+
+- CERN Open Hardware Licence Version 2 Weakly Reciprocal - **[CERN-OHL-W](LICENSE_CERN_OHL_W_V2.txt)**
 
 Note
 --
